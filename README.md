@@ -1,8 +1,9 @@
-# ⚙️ GitHub Profile Configuration
+# 👋 Hi there! I'm Mukul Paliwal
 
-Welcome to my GitHub profile! This `config.md` file documents the content, structure, and vibe of my profile README. It's the blueprint behind the banner — tracking what I showcase, highlight, and update as I grow.
+🎓 An Electrical and Electronics Engineering student at **NITK Surathkal**  
+🔌 Passionate about **electronics, embedded systems, digital design**, and **low-level computing**  
+🚀 Constantly building cool stuff — from **bare-metal OSes** to **AXI-compliant hardware blocks**
 
----
 
 ## 🎯 What This Profile Is About
 
@@ -83,20 +84,20 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📊 Language & Contribution Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight)
+<!-- Language donut chart -->
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULPALIWAL13&layout=donut&theme=tokyonight)
+
+<!-- GitHub contribution stats -->
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUKULPALIWAL13&show_icons=true&theme=tokyonight)
+
+<!-- GitHub contribution graph -->
+[![Mukul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUKULPALIWAL13&theme=tokyo-night)](https://github.com/MUKULPALIWAL13)
+
+
 
 > _This chart shows what languages dominate my repos — mostly hardware and embedded flavors!_
-
----
-
-## 🧩 Extras & Widgets
-
-Using:
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [Shields.io](https://shields.io/) for custom badges
 
 ---
 
