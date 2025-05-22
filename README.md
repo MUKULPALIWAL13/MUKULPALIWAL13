@@ -1,71 +1,104 @@
 # ⚙️ GitHub Profile Configuration
 
-Welcome to my GitHub profile! This `config.md` documents the content and structure used in my `README.md`, which acts as my personal introduction and portfolio front page on GitHub.
+Welcome to my GitHub profile! This `config.md` file documents the content, structure, and vibe of my profile README. It's the blueprint behind the banner — tracking what I showcase, highlight, and update as I grow.
 
 ---
 
-## 🎯 Purpose
+## 🎯 What This Profile Is About
 
-This profile showcases:
-- Personal and professional interests
-- Ongoing and past projects
-- Tech stack and tools
-- Contact links and fun facts
+Think of this profile as my **developer cockpit** — a quick tour of what I build, break, and brew:
+
+- 🚀 Projects I’m proud of
+- 🧠 Skills I’m sharpening
+- 💡 Things I find cool in embedded & digital design
+- 🛠️ Tech I use daily
+- 🔗 Links to reach me beyond GitHub
 
 ---
 
-## 🧠 About Me Prompts
-
-Here are some personal and professional prompts I use in my `README.md`:
+## 👤 About Me
 
 - 🔭 I’m currently working on:  
-  Embedded systems, digital design, and bare-metal development on ARM and RISC-V.
+  Bare-metal OS for Raspberry Pi, pipelined RISC-V CPU design, and embedded web communication with ESP32.
 
 - 🌱 I’m currently learning:  
-  SystemVerilog, SoC design, advanced computer architecture, and Linux device drivers.
+  SystemVerilog verification, memory protection with MMUs, and low-latency AXI stream interfaces.
 
 - 👯 I’m looking to collaborate on:  
-  Open-source hardware design, Verilog/VHDL IP cores, and bare-metal embedded projects.
+  FPGA toolchains, open-source SoCs, or hybrid embedded-ML projects.
 
 - 🤔 I’m looking for help with:  
-  Optimizing synthesis/timing in ASIC design, and MMU implementation on ARMv7.
+  Area-speed tradeoffs in pipelined designs, efficient privilege separation in embedded OS.
 
 - 💬 Ask me about:  
-  RTL design, AXI protocol, UART drivers, or anything low-level and hardware related.
+  AXI, UART, low-level ARM stuff, and getting started with Verilog or ESP32 networking.
 
 - 📫 How to reach me:  
-  [LinkedIn](https://linkedin.com/in/yourprofile) | Email: your.email@example.com
+  [LinkedIn](https://www.linkedin.com/in/mukul-paliwal-2b2923315/)  
+  📧 mukulpaliwal2023@gmail.com
 
 - 😄 Pronouns:  
   He/Him
 
 - ⚡ Fun fact:  
-  I once debugged an entire AXI-based system in Python before realizing the error was a missing `#10` delay in Verilog 😅
+  I wrote a mini OS on the Pi that prints “Hello” 4 chars at a time, thanks to a very persistent `printf` bug 😅
+
+---
+
+## 🧠 Projects I’ve Worked On
+
+- 🔧 **RISC-V Single-Cycle & Pipelined Processor**  
+  → Fully custom data path + hazard handling + control unit in Verilog.
+
+- 🧬 **One-shot Face Recognition using Siamese Neural Network**  
+  → Match faces with just one reference image — lightweight, efficient.
+
+- 🧠 **Bare-metal Operating System for Raspberry Pi 2**  
+  → Built from scratch: UART, syscalls, MMU, EL0/EL1 privilege control.
+
+- 🔁 **16-Point FFT ASIC Design Flow**  
+  → From RTL to PnR with twiddle factor optimization — Synopsys + ModelSim.
+
+- 🧮 **16-bit Booth’s Multiplier**  
+  → Signed binary multiplier with optimized area and delay.
+
+- 🌐 **ESP32 WebSocket + Webserver**  
+  → Real-time device control and monitoring through browser over Wi-Fi.
+
+- 🧠 **AXI-compliant LFSR IP**  
+  → With both AXI4-Lite and AXI4-Stream; integrated into a data pipeline with histogram and RAM.
+
+- 🤖 **Robot Simulation in CoppeliaSim**  
+  → Simulated gesture-based control using OpenCV and ESP32-CAM server.
 
 ---
 
 ## 🧰 Tech Stack
 
-Common tools and platforms I work with:
-- Verilog, SystemVerilog, Python, C
-- STM32, ESP32, Raspberry Pi
-- Vivado, Synopsys Design Compiler, ModelSim, Icarus Verilog
-- Git, VS Code, STM32CubeIDE
+- 💻 Languages: Verilog, SystemVerilog, Python, C, Shell
+- 🛠️ Tools: Vivado, ModelSim, Synopsys DC, STM32CubeIDE, Icarus Verilog, VS Code
+- ⚙️ Platforms: STM32, ESP32, Raspberry Pi (bare-metal), CoppeliaSim
+- 🧱 Protocols: AXI4, AXI-Lite, UART, WebSocket
+- 🧰 Skills: RTL design, microcontroller programming, simulation & synthesis
 
 ---
 
-## 📊 Extras
+## 📊 GitHub Stats & Languages
 
-Feel free to use these:
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [Shields.io](https://shields.io/) for badges
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight)
+
+> _This chart shows what languages dominate my repos — mostly hardware and embedded flavors!_
+
+---
+
+## 🧩 Extras & Widgets
+
+Using:
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [Shields.io](https://shields.io/) for custom badges
 
 ---
 
-## 🔄 Maintenance
-
-- Update this file whenever new tools, learning goals, or contact details change.
-- Sync the content with `README.md` regularly.
-
----
+Thanks for scrolling this far! 🧠⚡  
+Feel free to fork this layout and build your own profile blueprint too!
