@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Mukul Paliwal
+#  Hi there! I'm Mukul Paliwal
 
 🎓 An Electrical and Electronics Engineering student at **NITK Surathkal**  
 🔌 Passionate about **electronics, embedded systems, digital design**, and **low-level computing**  
 🚀 Constantly building cool stuff — from **bare-metal OSes** to **AXI-compliant hardware blocks**
 
 
-## 🎯 What This Profile Is About
+##  What This Profile Is About
 
 Think of this profile as my **developer cockpit** — a quick tour of what I build, break, and brew:
 
@@ -46,7 +46,7 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 
 ---
 
-## 🧠 Projects I’ve Worked On
+##  Projects I’ve Worked On
 
 - 🔧 **RISC-V Single-Cycle & Pipelined Processor**  
   → Fully custom data path + hazard handling + control unit in Verilog.
@@ -70,11 +70,11 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
   → With both AXI4-Lite and AXI4-Stream; integrated into a data pipeline with histogram and RAM.
 
 - 🤖 **Robot Simulation in CoppeliaSim**  
-  → Simulated gesture-based control using OpenCV and ESP32-CAM server.
+  → Simulated using OpenCV .
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - 💻 Languages: Verilog, SystemVerilog, Python, C, Shell
 - 🛠️ Tools: Vivado, ModelSim, Synopsys DC, STM32CubeIDE, Icarus Verilog, VS Code
