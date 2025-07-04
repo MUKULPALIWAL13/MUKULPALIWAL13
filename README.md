@@ -63,14 +63,17 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 - 🧮 **16-bit Booth’s Multiplier**  
   → Signed binary multiplier with optimized area and delay.
 
-- 🌐 **ESP32 WebSocket + Webserver**  
-  → Real-time device control and monitoring through browser over Wi-Fi.
+- 🔒 **ESP32 Secure Data Transfer & Encryption**  
+  → Extracted encrypted data from ESP32 NVS storage, transferred securely to a remote server, and decrypted using a customized SHA-256 algorithm.
 
 - 🧠 **AXI-compliant LFSR IP**  
   → With both AXI4-Lite and AXI4-Stream; integrated into a data pipeline with histogram and RAM.
 
 - 🤖 **Robot Simulation in CoppeliaSim**  
   → Simulated using OpenCV .
+- 🔑 **Vision Lock**  
+  → ESP32-based smart lock with face recognition, OTP verification, and servo control.
+  
 
 ---
 
