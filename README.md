@@ -1,77 +1,77 @@
 #  Hi there! I'm Mukul Paliwal
 
-🎓 An Electrical and Electronics Engineering student at **NITK Surathkal**  
-🔌 Passionate about **electronics, embedded systems, digital design**, and **low-level computing**  
-🚀 Constantly building cool stuff — from **bare-metal OSes** to **AXI-compliant hardware blocks**
+ An Electrical and Electronics Engineering student at **NITK Surathkal**  
+ Passionate about **electronics, embedded systems, digital design**, and **low-level computing**  
+ Constantly building cool stuff — from **bare-metal OSes** to **AXI-compliant hardware blocks**
 
 
 ##  What This Profile Is About
 
 Think of this profile as my **developer cockpit** — a quick tour of what I build, break, and brew:
 
-- 🚀 Projects I’m proud of
-- 🧠 Skills I’m sharpening
-- 💡 Things I find cool in embedded & digital design
-- 🛠️ Tech I use daily
-- 🔗 Links to reach me beyond GitHub
+
+- Skills I’m sharpening
+- Things I find cool in embedded & digital design
+- Tech I use daily
+-  Links to reach me beyond GitHub
 
 ---
 
-## 👤 About Me
+##  About Me
 
-- 🔭 I’m currently working on:  
+-  I’m currently working on:  
   Bare-metal OS for Raspberry Pi, pipelined RISC-V CPU design, and embedded web communication with ESP32.
 
-- 🌱 I’m currently learning:  
+-  I’m currently learning:  
   SystemVerilog verification, memory protection with MMUs, and low-latency AXI stream interfaces.
 
-- 👯 I’m looking to collaborate on:  
+-  I’m looking to collaborate on:  
   FPGA toolchains, open-source SoCs, or hybrid embedded-ML projects.
 
-- 🤔 I’m looking for help with:  
+-  I’m looking for help with:  
   Area-speed tradeoffs in pipelined designs, efficient privilege separation in embedded OS.
 
-- 💬 Ask me about:  
+-  Ask me about:  
   AXI, UART, low-level ARM stuff, and getting started with Verilog or ESP32 networking.
 
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/mukul-paliwal-2b2923315/)  
   📧 mukulpaliwal2023@gmail.com
 
-- 😄 Pronouns:  
+-  Pronouns:  
   He/Him
 
-- ⚡ Fun fact:  
+-  Fun fact:  
   I wrote a mini OS on the Pi that prints “Hello” 4 chars at a time, thanks to a very persistent `printf` bug 😅
 
 ---
 
 ##  Projects I’ve Worked On
 
-- 🔧 **RISC-V Single-Cycle & Pipelined Processor**  
+-  **RISC-V Single-Cycle & Pipelined Processor**  
   → Fully custom data path + hazard handling + control unit in Verilog.
 
-- 🧬 **One-shot Face Recognition using Siamese Neural Network**  
+-  **One-shot Face Recognition using Siamese Neural Network**  
   → Match faces with just one reference image — lightweight, efficient.
 
-- 🧠 **Bare-metal Operating System for Raspberry Pi 2**  
+-  **Bare-metal Operating System for Raspberry Pi 2**  
   → Built from scratch: UART, syscalls, MMU, EL0/EL1 privilege control.
 
-- 🔁 **16-Point FFT ASIC Design Flow**  
+-  **16-Point FFT ASIC Design Flow**  
   → From RTL to PnR with twiddle factor optimization — Synopsys + ModelSim.
 
-- 🧮 **16-bit Booth’s Multiplier**  
+- **16-bit Booth’s Multiplier**  
   → Signed binary multiplier with optimized area and delay.
 
-- 🔒 **ESP32 Secure Data Transfer & Encryption**  
+-  **ESP32 Secure Data Transfer & Encryption**  
   → Extracted encrypted data from ESP32 NVS storage, transferred securely to a remote server, and decrypted using a customized SHA-256 algorithm.
 
-- 🧠 **AXI-compliant LFSR IP**  
+- **AXI-compliant LFSR IP**  
   → With both AXI4-Lite and AXI4-Stream; integrated into a data pipeline with histogram and RAM.
 
-- 🤖 **Robot Simulation in CoppeliaSim**  
+- **Robot Simulation in CoppeliaSim**  
   → Simulated using OpenCV .
-- 🔑 **Vision Lock**  
+  - **Vision Lock**  
   → ESP32-based smart lock with face recognition, OTP verification, and servo control.
   
 
@@ -79,15 +79,15 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 
 ## Tech Stack
 
-- 💻 Languages: Verilog, SystemVerilog, Python, C, Shell
-- 🛠️ Tools: Vivado, ModelSim, Synopsys DC, STM32CubeIDE, Icarus Verilog, VS Code
-- ⚙️ Platforms: STM32, ESP32, Raspberry Pi (bare-metal), CoppeliaSim
-- 🧱 Protocols: AXI4, AXI-Lite, UART, WebSocket
-- 🧰 Skills: RTL design, microcontroller programming, simulation & synthesis
+-  Languages: Verilog, SystemVerilog, Python, C, Shell
+-  Tools: Vivado, ModelSim, Synopsys DC, STM32CubeIDE, Icarus Verilog, VS Code
+-  Platforms: STM32, ESP32, Raspberry Pi (bare-metal), CoppeliaSim
+- Protocols: AXI4, AXI-Lite, UART, WebSocket
+- Skills: RTL design, microcontroller programming, simulation & synthesis
 
 ---
 
-## 📊 Language & Contribution Stats
+##  Language & Contribution Stats
 
 <!-- Language donut chart -->
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULPALIWAL13&layout=donut&theme=tokyonight)
@@ -95,8 +95,7 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 <!-- GitHub contribution stats -->
 ![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUKULPALIWAL13&show_icons=true&theme=tokyonight)
 
-<!-- GitHub contribution graph -->
-[![Mukul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUKULPALIWAL13&theme=tokyo-night)](https://github.com/MUKULPALIWAL13)
+
 
 
 
@@ -104,5 +103,5 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 
 ---
 
-Thanks for scrolling this far! 🧠⚡  
-Feel free to fork this layout and build your own profile blueprint too!
+Thanks for scrolling this far!   
+
