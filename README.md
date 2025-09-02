@@ -71,7 +71,7 @@ Think of this profile as my **developer cockpit** — a quick tour of what I bui
 
 - **Robot Simulation in CoppeliaSim**  
   → Simulated using OpenCV .
-  - **Vision Lock**  
+- **Vision Lock**  
   → ESP32-based smart lock with face recognition, OTP verification, and servo control.
   
 
