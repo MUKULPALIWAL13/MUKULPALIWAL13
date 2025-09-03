@@ -8,7 +8,7 @@
 ##  What This Profile Is About
 
 Think of this profile as my digital lab notebook — a place where I document experiments, projects, and the skills I’m sharpening in embedded systems and digital design.
----
+
 
 ##  About Me
 
