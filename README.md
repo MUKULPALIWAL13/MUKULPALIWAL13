@@ -42,7 +42,7 @@ Think of this profile as my digital lab notebook — a place where I document ex
 ##  Projects I’ve Worked On
 
 -  **RISC-V Single-Cycle & Pipelined Processor**  
-  → Fully custom data path + hazard handling + control unit in Verilog.
+  → Fully custom data path + hazard handling + control unit in Verilog + assembler for testing 
 
 -  **One-shot Face Recognition using Siamese Neural Network**  
   → Match faces with just one reference image — lightweight, efficient.
@@ -66,14 +66,15 @@ Think of this profile as my digital lab notebook — a place where I document ex
   → Simulated using OpenCV .
 - **Vision Lock**  
   → ESP32-based smart lock with face recognition, OTP verification, and servo control.
-  
+- **Cordic Calc**
+  → A compact and synthesizable Verilog-based CORDIC calculator for precise fixed-point sine and cosine computation using iterative micro-rotations.
 
 ---
 
 ## Tech Stack
 
--  Languages: Verilog, SystemVerilog, Python, C, Shell
--  Tools: Vivado, ModelSim, Synopsys DC, STM32CubeIDE, Icarus Verilog, VS Code
+-  Languages: Verilog, SystemVerilog, Python, C
+-  Tools: Vivado, STM32CubeIDE, Icarus Verilog, VS Code
 -  Platforms: STM32, ESP32, Raspberry Pi (bare-metal), CoppeliaSim
 - Protocols: AXI4, AXI-Lite, UART, WebSocket
 - Skills: RTL design, microcontroller programming, simulation & synthesis
@@ -83,10 +84,11 @@ Think of this profile as my digital lab notebook — a place where I document ex
 ##  Language & Contribution Stats
 
 <!-- Language donut chart -->
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULPALIWAL13&layout=donut&theme=tokyonight)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpaliwal13&layout=donut&theme=tokyonight)
 
 <!-- GitHub contribution stats -->
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUKULPALIWAL13&show_icons=true&theme=tokyonight)
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight)
+
 
 
 
