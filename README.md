@@ -83,8 +83,7 @@ Think of this profile as my digital lab notebook — a place where I document ex
 
 ##  Language & Contribution Stats
 
-<!-- Language donut chart -->
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpaliwal13&layout=donut&theme=tokyonight)
+
 
 <!-- GitHub contribution stats -->
 ![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight)
