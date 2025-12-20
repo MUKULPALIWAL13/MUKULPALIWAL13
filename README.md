@@ -66,9 +66,8 @@ Think of this profile as my digital lab notebook — a place where I document ex
   → Simulated using OpenCV .
 - **Vision Lock**  
   → ESP32-based smart lock with face recognition, OTP verification, and servo control.
-- **Cordic Calc**
+- **Cordic Calc**<br>
   → A compact and synthesizable Verilog-based CORDIC calculator for precise fixed-point sine and cosine computation using iterative micro-rotations.
-
 ---
 
 ## Tech Stack
@@ -83,6 +82,8 @@ Think of this profile as my digital lab notebook — a place where I document ex
 
 ##  Language & Contribution Stats
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULPALIWAL13&layout=pie&theme=tokyonight)
 
 
 <!-- GitHub contribution stats -->
