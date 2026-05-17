@@ -1,5 +1,33 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=100&lines=MUKUL+PALIWAL;NITK%4027" alt="Mukul Paliwal Animation" />
+  <svg width="800" height="350" viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      @keyframes textCycle {
+        0%, 45% { opacity: 0; transform: translate(-50%, -40%); }
+        5%, 40% { opacity: 1; transform: translate(-50%, -50%); }
+        50%, 95% { opacity: 0; transform: translate(-50%, -40%); }
+        55%, 90% { opacity: 1; transform: translate(-50%, -50%); }
+      }
+      .animated-text {
+        font-family: 'Fira Code', 'Courier New', monospace;
+        font-weight: 800;
+        font-size: 42px;
+        fill: #38BDF8;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        text-anchor: middle;
+        dominant-baseline: middle;
+        animation: textCycle 8s infinite ease-in-out;
+      }
+      .text-2 {
+        animation-delay: 4s;
+      }
+    </style>
+    <image href="banner.png" width="800" height="350" x="0" y="0" />
+    <text x="400" y="175" class="animated-text text-1">MUKUL PALIWAL</text>
+    <text x="400" y="175" class="animated-text text-2">NITK@27</text>
+  </svg>
 </div>
 
 I am an Electrical and Electronics Engineering student at NITK Surathkal, specializing in digital design, embedded systems, and computer architecture. I thrive on building entire systems close to the hardware layer, from bare-metal operating systems and custom RISC-V processors to AXI-based IP blocks and hardware accelerators.
@@ -69,9 +97,10 @@ I am an Electrical and Electronics Engineering student at NITK Surathkal, specia
 
 ## **GitHub Insights**
 
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Mukul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpaliwal13&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="Mukul's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mukulpaliwal13&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Mukul's Top Languages" />
+</div>
 
 ---
 
