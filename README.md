@@ -1,6 +1,6 @@
-<div align="center" style="width:min(1000px,100%); margin:0 auto;">
-  <img src="banner.png" alt="Mukul Paliwal - Systems Design Banner" style="width:100%; height:auto; display:block; border-radius:24px; box-shadow:0 16px 40px rgba(0,0,0,0.25);" />
-</div>
+<p align="center">
+  <img src="banner.png" alt="Mukul Paliwal Banner" width="350"/>
+</p>
 
 I am an Electrical and Electronics Engineering student at NITK Surathkal, specializing in digital design, embedded systems, and computer architecture. I thrive on building entire systems close to the hardware layer, from bare-metal operating systems and custom RISC-V processors to AXI-based IP blocks and hardware accelerators.
 
@@ -81,4 +81,4 @@ I am an Electrical and Electronics Engineering student at NITK Surathkal, specia
 * **LinkedIn:** [Connect with Mukul Paliwal on LinkedIn](https://www.linkedin.com/in/mukul-paliwal-2b2923315/)
 * **Email:** mukulpaliwal2023@gmail.com
 
-> **Fun Fact:** I once spent an agonizing number of hours debugging a bare-metal Raspberry Pi printf() function that kept mysteriously truncating output, only processing 4 characters at a time. The culprit? An unbuffered UART TX FIFO control register that I didn't poll correctly before sending successive bytes. Hardware always wins the first round.
+> **Fun Fact:** I once spent an agonizing number of hours debugging a bare-metal Raspberry Pi printf() function that kept mysteriously truncating output, only processing 4 characters at a time.
