@@ -1,102 +1,83 @@
-#  Hi there! I'm Mukul Paliwal
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&height=100&lines=MUKUL+PALIWAL;NITK%4027" alt="Mukul Paliwal Animation" />
+</div>
 
- An Electrical and Electronics Engineering student at **NITK Surathkal**  
- Passionate about **electronics, embedded systems, digital design**, and **low-level computing**  
- Constantly building cool stuff — from **bare-metal OSes** to **AXI-compliant hardware blocks**
-
-
-##  What This Profile Is About
-
-Think of this profile as my digital lab notebook — a place where I document experiments, projects, and the skills I’m sharpening in embedded systems and digital design.
-
-
-##  About Me
-
--  I’m currently working on:  
-  Bare-metal OS for Raspberry Pi, pipelined RISC-V CPU design, and embedded web communication with ESP32.
-
--  I’m currently learning:  
-  SystemVerilog verification, memory protection with MMUs, and low-latency AXI stream interfaces.
-
--  I’m looking to collaborate on:  
-  FPGA toolchains, open-source SoCs, or hybrid embedded-ML projects.
-
--  I’m looking for help with:  
-  Area-speed tradeoffs in pipelined designs, efficient privilege separation in embedded OS.
-
--  Ask me about:  
-  AXI, UART, low-level ARM stuff, and getting started with Verilog or ESP32 networking.
-
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/mukul-paliwal-2b2923315/)  
-  📧 mukulpaliwal2023@gmail.com
-
--  Pronouns:  
-  He/Him
-
--  Fun fact:  
-  I wrote a mini OS on the Pi that prints “Hello” 4 chars at a time, thanks to a very persistent `printf` bug 😅
+I am an Electrical and Electronics Engineering student at NITK Surathkal, specializing in digital design, embedded systems, and computer architecture. I thrive on building entire systems close to the hardware layer, from bare-metal operating systems and custom RISC-V processors to AXI-based IP blocks and hardware accelerators.
 
 ---
 
-##  Projects I’ve Worked On
+## **About Me**
 
--  **RISC-V Single-Cycle & Pipelined Processor**  
-  → Fully custom data path + hazard handling + control unit in Verilog + assembler for testing 
-
--  **One-shot Face Recognition using Siamese Neural Network**  
-  → Match faces with just one reference image — lightweight, efficient.
-
--  **Bare-metal Operating System for Raspberry Pi 2**  
-  → Built from scratch: UART, syscalls, MMU, EL0/EL1 privilege control.
-
--  **16-Point FFT ASIC Design Flow**  
-  → From RTL to PnR with twiddle factor optimization — Synopsys + ModelSim.
-
-- **16-bit Booth’s Multiplier**  
-  → Signed binary multiplier with optimized area and delay.
-
--  **ESP32 Secure Data Transfer & Encryption**  
-  → Extracted encrypted data from ESP32 NVS storage, transferred securely to a remote server, and decrypted using a customized SHA-256 algorithm.
-
-- **AXI-compliant LFSR IP**  
-  → With both AXI4-Lite and AXI4-Stream; integrated into a data pipeline with histogram and RAM.
-
-- **Robot Simulation in CoppeliaSim**  
-  → Simulated using OpenCV .
-- **Vision Lock**  
-  → ESP32-based smart lock with face recognition, OTP verification, and servo control.
-- **Cordic Calc**<br>
-  → A compact and synthesizable Verilog-based CORDIC calculator for precise fixed-point sine and cosine computation using iterative micro-rotations.
----
-
-## Tech Stack
-
--  Languages: Verilog, SystemVerilog, Python, C
--  Tools: Vivado, STM32CubeIDE, Icarus Verilog, VS Code
--  Platforms: STM32, ESP32, Raspberry Pi (bare-metal), CoppeliaSim
-- Protocols: AXI4, AXI-Lite, UART, WebSocket
-- Skills: RTL design, microcontroller programming, simulation & synthesis
+* **Currently Architecting:** An FPGA-based MNIST digit recognition accelerator and a bare-metal OS for the Raspberry Pi 2.
+* **Deep Diving Into:** SystemVerilog Verification methodologies, FPGA acceleration pipelines, and advanced Data Structures and Algorithms.
+* **Open to Collaborating On:** Open-source SoC design, custom hardware accelerators, and low-level embedded AI/ML hardware.
 
 ---
 
-##  Language & Contribution Stats
+## **Projects**
 
+**Digital Design and Hardware Acceleration**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUKULPALIWAL13&layout=pie&theme=tokyonight)
+* **FPGA-based MNIST Handwritten Digit Recognition Pipeline**
+  I built an entire pipeline, from camera interface to display. I implemented preprocessing, grayscale conversion, flattening, and a custom neural network inference core. Verified using a custom testbench with Cocotb and Python within the Xilinx Vivado environment.
 
+* **AXI-compliant LFSR IP Core**
+  Created a complete AXI4-Lite and AXI4-Stream compatible IP block for pseudorandom number generation. Integrated with Block RAM and FIFOs, and verified via a standard Python AXI master testbench.
 
-<!-- GitHub contribution stats -->
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight)
+* **16-Point FFT ASIC Design Flow**
+  RTL implementation of a Radix-2 DIT FFT processor. Pushed the design through synthesis, floorplanning, and Place and Route using the OpenLane ASIC flow, achieving optimal timing and area constraints.
 
+* **CORDIC Calculator**
+  Synthesizable Verilog implementation for computing fixed-point sine and cosine values, using an iterative micro-rotation algorithm.
 
+* **Signed Booth Multiplier**
+  Verilog implementation of signed binary multiplication, optimized to reduce hardware area and propagation delay.
 
+**Analog and Mixed-Signal Design**
 
+* **180nm CMOS Differential Amplifier**
+  Designed and simulated a fully differential CMOS operational amplifier in LTspice using a 180nm technology node. Optimized circuit geometry and biasing networks to maximize differential-mode gain and Common-Mode Rejection Ratio (CMRR) while balancing power dissipation and unity-gain bandwidth constraints.
 
+**Low-Level Systems and Embedded Infrastructure**
 
-> _This chart shows what languages dominate my repos — mostly hardware and embedded flavors!_
+* **Bare-metal Operating System for Raspberry Pi 2**
+  Developed from scratch without external OS support. I implemented custom UART drivers, user-to-kernel mode privilege transition protocols (handling ARM EL0 to EL1 switching, where EL0 is unprivileged user mode and EL1 is privileged kernel mode), virtual memory setup via an MMU, and an interrupt-driven syscall infrastructure.
+
+* **RISC-V Single-Cycle and Pipelined Processors**
+  Designed comprehensive datapath and control units in Verilog. Resolved pipeline stalls by engineering automated hazard-detection and forwarding logic, backed by an assembler-based test workflow.
+
+* **ESP32 Secure NVS Data Extraction and Cryptography**
+  Explored hardware security frameworks by reverse-engineering and pulling data from ESP32 Non-Volatile Storage (NVS). Engineered a secure transmission pipeline to a remote server protected by a custom, lightweight SHA-256 workflow.
+
+* **IoT-based Smart Fan Controller**
+  A low-power ESP32 ambient monitoring system utilizing real-time temperature tracking to modulate motor speeds with cloud updates.
 
 ---
 
-Thanks for scrolling this far!   
+## **Technical Arsenal**
 
+| Category | Skills and Tools |
+| :--- | :--- |
+| **Hardware Description** | Verilog, SystemVerilog, RTL Design, ASIC Flow, STA |
+| **Analog Simulation** | LTspice, CMOS Design, Circuit Analysis |
+| **Low-Level Software** | C, C++, ARM Assembly, Python |
+| **EDA and Verification** | Xilinx Vivado, OpenLane, Cocotb, Icarus Verilog, GTKWave |
+| **Embedded Platforms** | STM32, ESP32, Raspberry Pi, FPGA Development Boards |
+| **System Protocols** | AXI4, AXI4-Lite, AXI4-Stream, SPI, UART |
+
+---
+
+## **GitHub Insights**
+
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukulpaliwal13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Mukul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulpaliwal13&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## **Let's Connect**
+
+* **LinkedIn:** [Connect with Mukul Paliwal on LinkedIn](https://www.linkedin.com/in/mukul-paliwal-2b2923315/)
+* **Email:** mukulpaliwal2023@gmail.com
+
+> **Fun Fact:** I once spent an agonizing number of hours debugging a bare-metal Raspberry Pi printf() function that kept mysteriously truncating output, only processing 4 characters at a time. The culprit? An unbuffered UART TX FIFO control register that I didn't poll correctly before sending successive bytes. Hardware always wins the first round.
