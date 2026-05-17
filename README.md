@@ -1,33 +1,5 @@
-<div align="center">
-  <svg width="800" height="350" viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      @keyframes textCycle {
-        0%, 45% { opacity: 0; transform: translate(-50%, -40%); }
-        5%, 40% { opacity: 1; transform: translate(-50%, -50%); }
-        50%, 95% { opacity: 0; transform: translate(-50%, -40%); }
-        55%, 90% { opacity: 1; transform: translate(-50%, -50%); }
-      }
-      .animated-text {
-        font-family: 'Fira Code', 'Courier New', monospace;
-        font-weight: 800;
-        font-size: 42px;
-        fill: #38BDF8;
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%);
-        text-anchor: middle;
-        dominant-baseline: middle;
-        animation: textCycle 8s infinite ease-in-out;
-      }
-      .text-2 {
-        animation-delay: 4s;
-      }
-    </style>
-    <image href="banner.png" width="800" height="350" x="0" y="0" />
-    <text x="400" y="175" class="animated-text text-1">MUKUL PALIWAL</text>
-    <text x="400" y="175" class="animated-text text-2">NITK@27</text>
-  </svg>
+<div align="center" style="width:min(1000px,100%); margin:0 auto;">
+  <img src="banner.png" alt="Mukul Paliwal - Systems Design Banner" style="width:100%; height:auto; display:block; border-radius:24px; box-shadow:0 16px 40px rgba(0,0,0,0.25);" />
 </div>
 
 I am an Electrical and Electronics Engineering student at NITK Surathkal, specializing in digital design, embedded systems, and computer architecture. I thrive on building entire systems close to the hardware layer, from bare-metal operating systems and custom RISC-V processors to AXI-based IP blocks and hardware accelerators.
